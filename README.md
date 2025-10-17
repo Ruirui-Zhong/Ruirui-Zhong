@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ruirui Zhong  
 > 🤖 Generative modeling & robot learning for intelligent systems
 
-🎓 Ph.D. Candidate in Robotics at **Zhejiang University**  
-🔬 Visiting Ph.D. in Robotics at **KTH Royal Institute of Technology**
+🎓 Ph.D. Candidate in Robotics at *Zhejiang University*  
+🔬 Visiting Ph.D. in Robotics at *KTH Royal Institute of Technology*
 
 My research focuses on **Diffusion Models**, **Robot Learning**, and **Multimodal Intelligence**.  
 My work explores how generative modeling and multimodal learning can enable intelligent and adaptive robotic systems.
