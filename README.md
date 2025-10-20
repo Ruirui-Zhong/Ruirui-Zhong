@@ -9,7 +9,7 @@ My work explores how generative modeling and multimodal learning can enable inte
 
 <div align="center">
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=Ruirui-Zhong&include_all_commits=true&title_color=0044cc&text_color=2f2f2f&bg_color=ffffff&icon_color=0044cc&border_color=dddddd&hide_border=false"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=Ruirui-Zhong&title_color=0044cc&text_color=2f2f2f&bg_color=ffffff&icon_color=0044cc&border_color=dddddd&hide_border=false"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruirui-Zhong&layout=compact&card_width=500&langs_count=10&title_color=0044cc&text_color=2f2f2f&bg_color=ffffff&border_color=dddddd&hide_border=false"/>
 
 </div>
