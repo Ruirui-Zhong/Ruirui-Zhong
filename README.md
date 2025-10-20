@@ -7,6 +7,8 @@
 My research focuses on **Diffusion Models**, **Robot Learning**, and **Multimodal Intelligence**.  
 My work explores how generative modeling and multimodal learning can enable intelligent and adaptive robotic systems.
 
+![](https://raw.githubusercontent.com/Ruirui-Zhong/Ruirui-Zhong/tree/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 <img width="43%" src="https://github-readme-stats.vercel.app/api?username=Ruirui-Zhong&title_color=0044cc&text_color=2f2f2f&bg_color=ffffff&icon_color=0044cc&border_color=dddddd&hide_border=false"/>
